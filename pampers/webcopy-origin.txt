@@ -1,0 +1,480 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\scripts\utms\latest.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\resgatequiz.top\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://pay.pagamentocerto.top/zj6aGn1z12pZwlK
+File Name: C:\Downloaded Web Sites\resgatequiz.top\zj6aGn1z12pZwlK
+Content Type: application/json
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://quiz-premiado.fun/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://resgatequiz.top/pampers/quiz/
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\index.htm
+Content Type: text/html
+
+Uri: https://resgatequiz.top/pampers/quiz/cdn-cgi/l/email-protection.html
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://resgatequiz.top/pampers/quiz/css/all.min.css
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\css\all.min.css
+Content Type: text/css
+
+Uri: https://resgatequiz.top/pampers/quiz/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://resgatequiz.top/pampers/quiz/css/style.css
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\css\style.css
+Content Type: text/css
+
+Uri: https://resgatequiz.top/pampers/quiz/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\fonts\fa-brands-400.woff2.html
+Content Type: text/html
+
+Uri: https://resgatequiz.top/pampers/quiz/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://resgatequiz.top/pampers/quiz/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://resgatequiz.top/pampers/quiz/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\fonts\fa-v4compatibility.woff2.html
+Content Type: text/html
+
+Uri: https://resgatequiz.top/pampers/quiz/images/logo.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\images\logo.png
+Content Type: image/png
+
+Uri: https://resgatequiz.top/pampers/quiz/images/pampers1.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\images\pampers1.png
+Content Type: image/png
+
+Uri: https://resgatequiz.top/pampers/quiz/images/pampers2.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\images\pampers2.png
+Content Type: image/png
+
+Uri: https://resgatequiz.top/pampers/quiz/images/pampers3.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\images\pampers3.png
+Content Type: image/png
+
+Uri: https://resgatequiz.top/pampers/quiz/images/pampers4.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\images\pampers4.png
+Content Type: image/png
+
+Uri: https://resgatequiz.top/pampers/quiz/images/pampers5.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\images\pampers5.png
+Content Type: image/png
+
+Uri: https://resgatequiz.top/pampers/quiz/images/pampers6.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\images\pampers6.png
+Content Type: image/png
+
+Uri: https://resgatequiz.top/pampers/quiz/images/White__1_.svg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\images\White__1_.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatequiz.top/pampers/quiz/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/js/buttonCheck.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\buttonCheck.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/js/crypto-js.min.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\crypto-js.min.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/js/hideAllExcept.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\hideAllExcept.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/js/popup.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\popup.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/js/selectedCard.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\selectedCard.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/js/selectedResponse.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\selectedResponse.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/js/sendResponse.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\js\sendResponse.js
+Content Type: application/javascript
+
+Uri: https://resgatequiz.top/pampers/quiz/resgate/
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\resgate\index.htm
+Content Type: text/html
+
+Uri: https://resgatequiz.top/pampers/quiz/resgate/assets/img/logo.html
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\resgate\assets\img\logo.html
+Content Type: text/html
+
+Uri: https://resgatequiz.top/pampers/quiz/resgate/js/email-decode.min.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pampers\quiz\resgate\js\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://superpromoja.online/cdn/shop/files/2_1024x_2068c460-379f-487e-9968-a45b871e41ca_800x.svg?v=1710386116
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn\shop\files\2_1024x_2068c460-379f-487e-9968-a45b871e41ca_800x.svg
+Content Type: image/svg+xml
+
+Uri: https://superpromoja.online/cdn/shop/files/3_1024x_bfbaad4b-44dd-4b15-b766-300722abc5f7_800x.svg?v=1710386116
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn\shop\files\3_1024x_bfbaad4b-44dd-4b15-b766-300722abc5f7_800x.svg
+Content Type: image/svg+xml
+
+Uri: https://superpromoja.online/cdn/shop/files/4_1024x_ad37f9d3-c10f-4853-b91c-8b5c08ee7948_800x.svg?v=1710386116
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn\shop\files\4_1024x_ad37f9d3-c10f-4853-b91c-8b5c08ee7948_800x.svg
+Content Type: image/svg+xml
+
+Uri: https://superpromoja.online/cdn/shop/files/5_1024x_43c775b8-972d-4b47-848a-0d988f4f5321_800x.svg?v=1710386116
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn\shop\files\5_1024x_43c775b8-972d-4b47-848a-0d988f4f5321_800x.svg
+Content Type: image/svg+xml
+
+Uri: https://superpromoja.online/cdn/shop/files/6_1024x_4ac542dd-41c8-40a9-b229-0434b3484e63_800x.svg?v=1710386116
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn\shop\files\6_1024x_4ac542dd-41c8-40a9-b229-0434b3484e63_800x.svg
+Content Type: image/svg+xml
+
+Uri: https://superpromoja.online/cdn/shop/files/FraldaPampersConfortSec-Compre1Leve2_700x_800x_df19ff6b-2404-4cb5-bd6b-e8110cddff85_800x.webp?v=1710386116
+File Name: C:\Downloaded Web Sites\resgatequiz.top\cdn\shop\files\FraldaPampersConfortSec-Compre1Leve2_700x_800x_df19ff6b-2404-4cb5-bd6b-e8110cddff85_800x.webp
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-73712942-1
+File Name: C:\Downloaded Web Sites\resgatequiz.top\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.testedeperformance.com/comments/feed/
+File Name: C:\Downloaded Web Sites\resgatequiz.top\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.testedeperformance.com/feed/
+File Name: C:\Downloaded Web Sites\resgatequiz.top\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.testedeperformance.com/pagina-inicial/feed/
+File Name: C:\Downloaded Web Sites\resgatequiz.top\pagina-inicial\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.testedeperformance.com/wp-content/cache/wpfc-minified/dfz3a5pw/a4l14.js
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\cache\wpfc-minified\dfz3a5pw\a4l14.js
+Content Type: application/javascript
+
+Uri: https://www.testedeperformance.com/wp-content/cache/wpfc-minified/q5n1jgvv/a4l14.css
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\cache\wpfc-minified\q5n1jgvv\a4l14.css
+Content Type: text/css
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://www.testedeperformance.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Light.eot
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Light.eot?
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Light.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Light.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Light.woff
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Light.woff
+Content Type: application/font-woff
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Light.woff2
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Light.woff2
+Content Type: 
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Regular.eot
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Regular.eot?
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Regular.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Regular.woff
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-Regular.woff2
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-Regular.woff2
+Content Type: 
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-SemiBold.eot
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-SemiBold.eot?
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-SemiBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-SemiBold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-SemiBold.woff
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/fonts/HKGrotesk-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\fonts\HKGrotesk-SemiBold.woff2
+Content Type: 
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/img/10897-200.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\img\10897-200.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/img/check.svg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\img\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.testedeperformance.com/wp-content/themes/teste-de-performance-flatsome-child/assets/js/custom.js?ver=5.1.1
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\themes\teste-de-performance-flatsome-child\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/como-deixar-wordpress-mais-rapido-300x225.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\como-deixar-wordpress-mais-rapido-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/como-deixar-wordpress-mais-rapido-768x576.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\como-deixar-wordpress-mais-rapido-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/como-deixar-wordpress-mais-rapido.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\como-deixar-wordpress-mais-rapido.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/dashboard-teste-performance-1024x581.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\dashboard-teste-performance-1024x581.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/dashboard-teste-performance-300x170.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\dashboard-teste-performance-300x170.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/dashboard-teste-performance-768x436.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\dashboard-teste-performance-768x436.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/dashboard-teste-performance.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\dashboard-teste-performance.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/lista-sites-testeperformance-300x181.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\lista-sites-testeperformance-300x181.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/lista-sites-testeperformance-768x463.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\lista-sites-testeperformance-768x463.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/lista-sites-testeperformance.png
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\lista-sites-testeperformance.png
+Content Type: image/png
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/logo.svg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/sites-rapidos-google-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\sites-rapidos-google-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/sites-rapidos-google-1-768x576.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\sites-rapidos-google-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2018/12/sites-rapidos-google-1.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2018\12\sites-rapidos-google-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2019/01/conceitos-teste-de-performance-300x225.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2019\01\conceitos-teste-de-performance-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2019/01/conceitos-teste-de-performance-768x576.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2019\01\conceitos-teste-de-performance-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2019/01/conceitos-teste-de-performance.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2019\01\conceitos-teste-de-performance.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-content/uploads/2019/05/bgperformance-1.jpg
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-content\uploads\2019\05\bgperformance-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.testedeperformance.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://www.testedeperformance.com/wp-includes/js/wp-embed.min.js?ver=5.1.1
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.testedeperformance.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.testedeperformance.com/wp-json/
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.testedeperformance.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.testedeperformance.com%2F
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.testedeperformance.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.testedeperformance.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\resgatequiz.top\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.testedeperformance.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\resgatequiz.top\xmlrpc.php
+Content Type: text/xml
+

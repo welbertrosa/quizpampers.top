@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Teste de Performance</title>
+	<atom:link href="https://www.testedeperformance.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.testedeperformance.com</link>
+	<description>Deixe seu site mais rápido começando por um teste de velocidade</description>
+	<lastBuildDate>
+	Thu, 05 Dec 2019 17:19:37 +0000	</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Entendendo seu teste de performance</title>
+		<link>https://www.testedeperformance.com/teste-de-performance/</link>
+				<comments>https://www.testedeperformance.com/teste-de-performance/#respond</comments>
+				<pubDate>Fri, 04 Jan 2019 20:41:34 +0000</pubDate>
+		<dc:creator><![CDATA[Teste de Performance]]></dc:creator>
+				<category><![CDATA[Performance]]></category>
+
+		<guid isPermaLink="false">http://blog.testedeperformance.com/?p=185</guid>
+				<description><![CDATA[<p>Conheça termos usados nos principais testes de performance e velocidade disponíveis na web, saiba como ler os resultados obtidos e por onde começar a otimizar em cada um desses pontos. Tempo de resposta do servidor É o tempo que o servidor demora para carregar o HTML mínimamente necessário para começa a processar uma página da...</p>
+<p>The post <a rel="nofollow" href="https://www.testedeperformance.com/teste-de-performance/">Entendendo seu teste de performance</a> appeared first on <a rel="nofollow" href="https://www.testedeperformance.com">Teste de Performance</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>Conheça termos usados nos principais testes de performance e velocidade disponíveis na web, saiba como ler os resultados obtidos e por onde começar a otimizar em cada um desses pontos.</p>
+<p><img class="aligncenter size-full wp-image-189" src="http://blog.testedeperformance.com/wp-content/uploads/2019/01/conceitos-teste-de-performance.jpg" alt="" width="800" height="600" srcset="https://www.testedeperformance.com/wp-content/uploads/2019/01/conceitos-teste-de-performance.jpg 800w, https://www.testedeperformance.com/wp-content/uploads/2019/01/conceitos-teste-de-performance-300x225.jpg 300w, https://www.testedeperformance.com/wp-content/uploads/2019/01/conceitos-teste-de-performance-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>Tempo de resposta do servidor</h2>
+<p>É o tempo que o servidor demora para carregar o HTML mínimamente necessário para começa a processar uma página da web.</p>
+<p>Quanto menor, melhor. O ideal é que não seja superior a 200ms. Valores altos são a partir de 300ms; e acima de 500ms começa a ser alarmante.</p>
+<p>A variação frequente do tempo de resposta do servidor pode indicar problemas de configuração do servidor ou sobrecarga. Pode ser resolvido com upgrade no serviço de hospedagem ou com revisão de configuração por um técnico.</p>
+<h2>Primeiro byte TTFB</h2>
+<p>O tempo para primeiro byte recebido, ou Time to First Byte, é um indicador da responsividade de um webserver. É a medida da duração entre a primeira requisição HTTP e o primeiro byte recebido no navegador do usuário.</p>
+<p>Assim como o tempo de resposta do servidor, essa métrica deve ser baixa. Um TTFB abaixo de 200ms é ótimo; entre 500ms e 1s é alarmante.</p>
+<p>Pode ser corrigido com melhora no servidor (host) e otimização de código de páginas. Tem forte relação com resultados no Google, já que o algoritmo do buscador prioriza sites que atendam requisições rápido, tanto para usuários quanto para os rastreadores (crawlers).</p>
+<h2>Tamanho total da página</h2>
+<p>O tamanho total de uma página é a soma do tamanho de todos os arquivos requisitados pelo navegador para renderização da página. São somados os pesos de arquivos HTML, JavaScript, CSS, imagens, vídeos, fontes, scripts externos na conta do tamanho total de uma página.</p>
+<p>Tem relação direta com o tempo de carregamento, em situações onde a banda de acesso é limitada. O ideal aqui é manter a página mais leve o possível. Páginas de até 2MB são excelentes; páginas acima de 3MB começam a ter problemas em redes mobile e acima de 5MB pode ser um impeditivo para visitantes.</p>
+<p>Pode ser corrigido com a otimização de arquivos, como compressão de imagens e minificação (minify) de CSS e JavaScript.</p>
+<h2>Tempo total de carregamento</h2>
+<p>É o tempo, em segundos, que uma página demora para carregar. É a forma como as pessoas percebem a performance; altos tempos de carregamento podem deixar usuários frustrados.</p>
+<p><a href="https://think.storage.googleapis.com/docs/mobile-page-speed-new-industry-benchmarks.pdf">Pesquisa do Google de 2017</a> constatou que a média do tempo de carregamento de páginas em dispositivos mobile é de 22 segundos; mas isso não significa que ter uma página com um tempo de carregamento menor do que esse seja algo positivo. O mesmo estudo mostra que 53% das pessoas abandonou visitas em páginas que demoraram mais de 3 segundos para carregar.</p>
+<p>O tempo de carregamento pode ser melhorado com atenção nos pontos listados antes, já que é uma equação entre o tamanho das páginas e capacidade de entrega do servidor.</p>
+<h2>Número de Requisições</h2>
+<p>Cada recurso carregado para montar uma página em um browser é entregue por uma requisição diferente a um servidor ou mais. Quando os <em>webservers</em> acionados têm um tempo de resposta grande, o número de requisições pode ser o fator mais prejudicial para a performance.</p>
+<p>Pode ser corrigido com combinação de arquivos do mesmo tipo (JS e CSS) ou, no caso de scripts curtos, inserindo trechos de <em>código inline</em>.</p>
+<h3>Testar a velocidade de seu site</h3>
+<p>O primeiro passo na otimização da performance de um site é um benchmark completo. Que outras métricas você acompanha? Precisa de ajuda com o seu site? Deixe um comentário!</p>
+<p>The post <a rel="nofollow" href="https://www.testedeperformance.com/teste-de-performance/">Entendendo seu teste de performance</a> appeared first on <a rel="nofollow" href="https://www.testedeperformance.com">Teste de Performance</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.testedeperformance.com/teste-de-performance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Velocidade do site e SEO: Como sites são penalizados no Google</title>
+		<link>https://www.testedeperformance.com/velocidade-do-site-seo/</link>
+				<comments>https://www.testedeperformance.com/velocidade-do-site-seo/#respond</comments>
+				<pubDate>Fri, 21 Dec 2018 20:25:24 +0000</pubDate>
+		<dc:creator><![CDATA[Teste de Performance]]></dc:creator>
+				<category><![CDATA[Performance]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">http://blog.testedeperformance.com/?p=156</guid>
+				<description><![CDATA[<p>Velocidade do site é um fator considerado pelo Google? A resposta é SIM! A velocidade e a performance de entrega de seu site estão conectados, e a Google é um dos buscadores que faz um ranqueamento utilizando diversos fatores, sendo a otimização da velocidade do site, um deles. Sites pesados entregam menos, isso é um...</p>
+<p>The post <a rel="nofollow" href="https://www.testedeperformance.com/velocidade-do-site-seo/">Velocidade do site e SEO: Como sites são penalizados no Google</a> appeared first on <a rel="nofollow" href="https://www.testedeperformance.com">Teste de Performance</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>Velocidade do site é um fator considerado pelo Google? A resposta é SIM!</p>
+<p>A velocidade e a performance de entrega de seu site estão conectados, e a Google é um dos buscadores que faz um ranqueamento utilizando diversos fatores, sendo a otimização da velocidade do site, um deles.</p>
+<p>Sites pesados entregam menos, isso é um fato &#8211; não apenas pelo ranqueamento, mas qual usuário tem interesse em esperar um site lento carregar?</p>
+<p><img class="aligncenter wp-image-180 size-full" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/sites-rapidos-google-1.jpg" alt="Melhorar a velocidade do seu site pode fazer páginas subirem no ranking" width="800" height="600" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/sites-rapidos-google-1.jpg 800w, https://www.testedeperformance.com/wp-content/uploads/2018/12/sites-rapidos-google-1-300x225.jpg 300w, https://www.testedeperformance.com/wp-content/uploads/2018/12/sites-rapidos-google-1-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>A resposta é: nenhum.</p>
+<p>A conversão de vendas e de usuários é feita em menos de 7 segundos, e essa demora pode afetar em toda a sua cadeia de vendas. Sites como a Amazon verificaram como a demora de entrega de certos conteúdos pode afetar em até 7% as vendas finais e 11% na hora da conversão de novos usuários.</p>
+<h2>Google speed update</h2>
+<p>O que muitos que trabalham com desenvolvimento já sentiam como possibilidade se tornou realidade em julho de 2018, quando mudanças na ferramenta Google de raqueamento de sites começou a considerar, oficialmente, a velocidade como um de seus fatores.</p>
+<p>A nota, publicada no <a href="https://webmasters.googleblog.com/2018/01/using-page-speed-in-mobile-search.html">Blog de Webmasters Google</a> conta mais sobre como se deu a mudança, chamada de Speed Update, e ela se dá principalmente para pesquisas mobile, já que desde 2010 as feitas em navegadores em desktop já eram impactadas por esse fator. Segundo palavras da própria Google:</p>
+<blockquote><p>“Embora a velocidade já esteja sendo usada no ranking há algum tempo, até então era somente nas buscas feitas no desktop. A partir de julho de 2018, a velocidade da página será um fator de classificação para buscas em dispositivos móveis.”</p></blockquote>
+<p>Ou seja: todos, independente da tecnologia que usemos na hora de fazer nossos sites, temos que estar atentos e atualizados para não cair no ranking de buscas dentro do buscador. A própria plataforma vêm trabalhando internamente para mostrar isso cada vez mais para seus desenvolvedores e os pontos de Mobile Users e User Experience são dois dos fatores que também têm inspirado tais modificações no comportamento da plataforma com sites mais lentos.</p>
+<p>Embora o impacto não seja imediato, sites que não entreguem de forma interessante o seu conteúdo e não tenham engajamento apropriado de clientes e usuários tenderão a ser cada vez mais rebaixados nos rankings.</p>
+<p>Essa mudança mostra como a velocidade de uma página a falta de atualização da mesma pode afetar os SEOs usados para otimizar um site e a forma de interação dos usuários com ele.</p>
+<h2>Otimizando a velocidade do site para as buscas</h2>
+<p>A <a href="https://developers.google.com/speed/">Google PageSpeed Insights</a> é uma antiga conhecida dos profissionais que trabalham com SEO e tem ótimas dicas de como trabalhar melhor nesses novos termos levantados pela empresa. Outras ferramentas como a Lighthouse, focada em experiência do usuário e o Chrome User Experience Report, que traz relatórios de métricas baseados nos usuários da plataforma, também são formas de você testar e trazer novos aplicações para dentro do seu site, de forma a melhorar ele sempre.</p>
+<p>Um site rápido é um site com melhores respostas em todos os seus objetivos, pensando sempre que hoje devemos não oferecer apenas um site com a nossa empresa se apresentando, mas um site em que o usuário possa navegar de forma intuitiva e com conteúdos interessantes que agregam de alguma forma para ele.</p>
+<p>Mais insights e dicas sobre otimização de sites, SEO e novas tecnologias, você encontra em nosso blog. Saiba mais sobre nossa série te otimização de sites e User Experience!</p>
+<p>The post <a rel="nofollow" href="https://www.testedeperformance.com/velocidade-do-site-seo/">Velocidade do site e SEO: Como sites são penalizados no Google</a> appeared first on <a rel="nofollow" href="https://www.testedeperformance.com">Teste de Performance</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.testedeperformance.com/velocidade-do-site-seo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Como deixar seu site em WordPress muito mais rápido</title>
+		<link>https://www.testedeperformance.com/como-deixar-site-wordpress-rapido/</link>
+				<comments>https://www.testedeperformance.com/como-deixar-site-wordpress-rapido/#respond</comments>
+				<pubDate>Fri, 21 Dec 2018 18:21:10 +0000</pubDate>
+		<dc:creator><![CDATA[Teste de Performance]]></dc:creator>
+				<category><![CDATA[Performance]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://blog.testedeperformance.com/?p=139</guid>
+				<description><![CDATA[<p>Um site lento para os seus usuários muitas vezes é o motivo para que você não tenha a conversão desejada. É uma questão de segundos entre um usuário decidir ficar ou sair do seu site &#8211; isso faz com que o tempo de carregamento de páginas se relacione a várias outras métricas de comportamento. Hoje...</p>
+<p>The post <a rel="nofollow" href="https://www.testedeperformance.com/como-deixar-site-wordpress-rapido/">Como deixar seu site em WordPress muito mais rápido</a> appeared first on <a rel="nofollow" href="https://www.testedeperformance.com">Teste de Performance</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>Um site lento para os seus usuários muitas vezes é o motivo para que você não tenha a conversão desejada. É uma questão de segundos entre um usuário decidir ficar ou sair do seu site &#8211; isso faz com que o tempo de carregamento de páginas se relacione a várias outras métricas de comportamento.</p>
+<p>Hoje temos muitas maneiras de publicar conteúdo na internet sem grandes esforços e gastos &#8211; e o WordPress contribui ativamente para que lançar sites seja uma tarefa cada vez mais acessível. Entretanto, o trabalho não termina assim que é publicado. Manter um site desatualizado e com configurações indevidas pode, além de prejudicar resultados do site, ser a porta de entrada para problemas maiores, como perda de credibilidade e ataques maliciosos.</p>
+<p><img class="aligncenter wp-image-161 size-full" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/como-deixar-wordpress-mais-rapido.jpg" alt="" width="800" height="600" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/como-deixar-wordpress-mais-rapido.jpg 800w, https://www.testedeperformance.com/wp-content/uploads/2018/12/como-deixar-wordpress-mais-rapido-300x225.jpg 300w, https://www.testedeperformance.com/wp-content/uploads/2018/12/como-deixar-wordpress-mais-rapido-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Um site lento, além de ser pouco atrativo para usuários, também é penalizado por mecanismos de busca, como o Google, que consideram sites lentos menos importantes &#8211; mesmo que tenha um conteúdo incrível e atenda todos os padrões técnicos e boas práticas de SEO. Viu como pode ser prejudicial?</p>
+<h2>WordPress lento? Veja como corrigir</h2>
+<p>No caso do WordPress, hoje o CMS mais amigável e usado por desenvolvedores e leigos que querem criar e manter um site, existem configurações específicas que podem trazer melhorias na performance geral. Apesar de ter uma comunidade global e ativa que oferece suporte, sites em WordPress são como qualquer outro &#8211; podem apresentar problemas, precisam de atualizações e manutenção.</p>
+<p>Conheça os principais fatores que prejudicam a performance de sites que usam o CMS:</p>
+<h3>Servidor de hospedagem lento</h3>
+<p>Nada pior do que uma má hospedagem para deixar seu site ruim. Muitas pessoas que desenvolvem sites pela primeira vez escolhem serviços de hospedagem compartilhada, principalmente pelo seu custo. Independentemente do tamanho do site e funcionalidades dele, servidores desse tipo oferecem tempos de resposta inferiores no primeiro byte recebido e entrega de recursos, como imagens e arquivos importantes para exibição completa das páginas.<br />
+<img class="aligncenter size-full wp-image-164" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/servidor-lento-como-corrigir.jpg" alt="" width="600" height="352" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/servidor-lento-como-corrigir.jpg 600w, https://www.testedeperformance.com/wp-content/uploads/2018/12/servidor-lento-como-corrigir-300x176.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>É um dos primeiros pontos para checar quando um site em WordPress está com uma entrega mais lenta. Existem serviços de hospedagem <em>on cloud</em> e dedicados a preços acessíveis no mercado; a migração para um novo servidor pode exigir poucas horas de trabalho de um desenvolvedor mas o retorno será um ambiente mais rápido e necessário &#8211; afinal, um serviço de hospedagem não deve ser um fator que limita seus resultados.</p>
+<h3>Erros de configuração</h3>
+<p>O WordPress possui ferramentas muito boas para personalização de suas páginas, porém se você não ficar de olho nas configurações corretas das suas páginas, pode acabar com um site pesado (pela quantidade de alterações) e sobrecarregar o servidor, principalmente quando existem conflitos de configuração.</p>
+<h3>Tamanho de páginas</h3>
+<p>Páginas com muita mídia, como vídeos, imagens e anexos demoram mais para carregar pelo tamanho total da página. Pense bem em como você montará a sua página, desde o que vai anexada nela até a forma como você vai colocar tudo aquilo no layout para que ele não fique sobrecarregado.<br />
+<img class="aligncenter size-full wp-image-165" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/tamanho-de-paginas-pesadas.jpg" alt="" width="600" height="352" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/tamanho-de-paginas-pesadas.jpg 600w, https://www.testedeperformance.com/wp-content/uploads/2018/12/tamanho-de-paginas-pesadas-300x176.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>Formatos de arquivo de imagens e vídeos que você sobe para o seu site devem ter o tamanho e formato certo para que tenham a melhor performance possível e não prejudiquem a rapidez do WordPress.</p>
+<h3>Plugins</h3>
+<p>Plugins são usados amplamente dentro do WordPress para implementar funcionalidades novas. Um site feito dentro dessa plataforma precisa, de todo e qualquer jeito, ter seus plugins atualizados, reduzindo o risco de conflitos com o tema e arquivos do core do WordPress.</p>
+<p>As atualizações do WordPress e de plugins muitas vezes são orientados para melhoria de performance, compatibilidade e correção de pequenos erros e brechas de segurança &#8211; por isso pare agora mesmo de ignorar as notificações de atualização.</p>
+<p><img class="aligncenter size-full wp-image-167" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/configuracao-plugins-wordpress.jpg" alt="" width="600" height="352" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/configuracao-plugins-wordpress.jpg 600w, https://www.testedeperformance.com/wp-content/uploads/2018/12/configuracao-plugins-wordpress-300x176.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>É comum ver sites que possuem muitos plugins, alguns deles particularmente pesados (como o Jetpack ou Woocommerce).  Quanto mais plugins, maiores as chances de lentidão. Preste sempre atenção para ter somente aquilo que é realmente necessário e, atingindo uma quantidade grande de plugins instalados, considere um redesign de performance, substituindo plugins para fins estéticos por linhas de código em arquivos do WordPress (CSS e JS) e enxutando o máximo de funcionalidades do site, mantendo apenas o necessário.</p>
+<h3>Scripts e requisições externas</h3>
+<p>Entrega de anúncios (afiliados, retargeting), requisições de fontes, scripts e qualquer outro tipo de recurso precisa estar de acordo com as configurações de seu site para que ele tenham um bom desempenho.</p>
+<p>Aqueles que aparecem de “surpresa” no rodapé da página, ou como pop-ups no meio da leitura do seu conteúdo, além de serem muito pesados, são incômodos para os usuários, que muitas vezes acabam deixando de consumir o seu conteúdo por conta de lentidões e fatores que atrapalham a experiência dele dentro do site.</p>
+<h2>Como deixar WordPress mais rápido</h2>
+<p>Existem muitas formas de você melhorar a sua performance dentro do WordPress com ferramentas que potencializam a sua velocidade e entrega, gerando mais tráfego e clientes para o seu site. Conheça as principais abordagens para tratar a performance do seu site.</p>
+<h3>Otimize imagens</h3>
+<p>O próprio WordPress possui e oferece aos seus usuários um plugin de otimização de imagens oficial que as deixa no melhor tamanho e formato para o seu site.</p>
+<figure id="attachment_171" aria-describedby="caption-attachment-171" style="width: 600px" class="wp-caption aligncenter"><img class="size-full wp-image-171" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/compressao-otimizacao-de-imagens.jpg" alt="Ebook sobre otimização de imagens" width="600" height="325" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/compressao-otimizacao-de-imagens.jpg 600w, https://www.testedeperformance.com/wp-content/uploads/2018/12/compressao-otimizacao-de-imagens-300x163.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-171" class="wp-caption-text">Otimize suas imagens com as dicas completas do ebook <a href="https://images.guide/">Essential Image Optimization</a></figcaption></figure>
+<p>Imagens compactadas sem perda em sua qualidade (lossless) nos <a href="http://designingforperformance.com/optimizing-images/">formatos modernos da web</a> podem reduzir o tamanho total das suas páginas e o espaço de armazenagem ocupado no servidor de hospedagem.</p>
+<h3>Aposte no CDN</h3>
+<p>Content Delivery Networks servem para hospedar e facilitar a distribuição de imagens e arquivos estáticos (como os .css e .js). Os navegadores têm uma quantidade limitada de arquivos a serem baixados simultaneamente. Ter um CDN que hospede esses arquivos e os distribua de forma mais ágil fazem com que a velocidade do carregamento das suas páginas seja beneficiada.</p>
+<figure id="attachment_174" aria-describedby="caption-attachment-174" style="width: 600px" class="wp-caption aligncenter"><img class="size-full wp-image-174" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/cdn-para-wordpress.jpg" alt="Cloudflare para WordPress" width="600" height="325" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/cdn-para-wordpress.jpg 600w, https://www.testedeperformance.com/wp-content/uploads/2018/12/cdn-para-wordpress-300x163.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-174" class="wp-caption-text">O CloudFlare oferece em seus planos gratuitos proteção e segurança. Também oferece CDN nos planos pagos.</figcaption></figure>
+<p>O CND pode ser usado através da contratação de um serviço de hospedagem especializado, mas hoje o WordPress também oferece uma ferramenta interna e gratuita para esse recurso, o Photon.</p>
+<h3>PHP atualizado</h3>
+<p>O PHP é a linguagem de script open source que é utilizada para o desenvolvimento web sob a qual o WordPress foi criado.</p>
+<figure id="attachment_175" aria-describedby="caption-attachment-175" style="width: 600px" class="wp-caption aligncenter"><img class="wp-image-175" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/performance-wordpress-5-php-300x251.png" alt="Requisições por segundo e versão do PHP" width="600" height="503" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/performance-wordpress-5-php-300x251.png 300w, https://www.testedeperformance.com/wp-content/uploads/2018/12/performance-wordpress-5-php-768x644.png 768w, https://www.testedeperformance.com/wp-content/uploads/2018/12/performance-wordpress-5-php.png 940w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-175" class="wp-caption-text">Benchmark realizado pela empresa de tecnologia Kinsta revela que <a href="https://kinsta.com/blog/php-benchmarks/">quanto mais atualizado o PHP, melhor a performance do WordPress</a></figcaption></figure>
+<p>Hoje o WordPress oferece suporte ao PHP 7, a versão da linguagem mais atual, que é mais rápida que as anteriores e permite mais requisições simultâneas, deixando o site mais robusto para picos de acesso. A atualização do PHP é feita nos servidores, o que pode demandar um profissional especializado.</p>
+<h3>Banco de dados limpo e cache</h3>
+<p>Considere instalar um plugin que traga a tecnologia de cache para seu site. Ele tornará as páginas muito mais rápidas para visitantes que retornam, já que os recursos uma vez carregados não precisarão ser baixados novamente pelo navegador.</p>
+<figure id="attachment_176" aria-describedby="caption-attachment-176" style="width: 600px" class="wp-caption aligncenter"><img class="size-full wp-image-176" src="http://blog.testedeperformance.com/wp-content/uploads/2018/12/plugin-de-cache-para-wordpress.jpg" alt="Plugin de cache para WordPress" width="600" height="325" srcset="https://www.testedeperformance.com/wp-content/uploads/2018/12/plugin-de-cache-para-wordpress.jpg 600w, https://www.testedeperformance.com/wp-content/uploads/2018/12/plugin-de-cache-para-wordpress-300x163.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-176" class="wp-caption-text">O W3 Total Cache é um plugin gratuito que oferece configurações simples e avançadas para deixar sites WordPress mais rápidos. Destacamos a funcionalidade de cache e minify de arquivos HTML, CSS e JS.</figcaption></figure>
+<p>Além do cache, mantenha seu banco de dados atualizado e limpo. Plugins como o WP-Optimize e o W3 Total Cache são as opções mais usadas. Considere usar serviços de terceiros, como o Cloudflare, que oferece tecnologia de cache e outras melhorias de segurança em seu plano gratuito.</p>
+<h3>Temas otimizados e responsivos</h3>
+<p>É ótimo que o WordPress nos dê tantas opções de temas e formas de usar a plataforma, mas isso muitas vezes pode prejudicar os usuários que não dominam 100% a programação de Websites. Escolher temas mais leves e responsivos é a melhor maneira de manter o seu site com a melhor performance.</p>
+<h2>Como posso verificar se meu site está lento?</h2>
+<p>Muitas pessoas acreditam não estar com um site lento porque ele carrega rápido em primeiro momento. Isso não quer dizer muita coisa. Visitantes frequentes de um site (e você provavelmente visita o seu frequentemente) possuem as informações necessárias armazenadas em cache, o que faz com que eles carreguem com mais facilidade &#8211; coisa que não se repete caso um usuário esteja visitando o site pela primeira vez!</p>
+<p>Para testar a velocidade do seu site, existem várias ferramentas online que podem te mostrar com exatidão o tempo que ele leva para carregar. O Teste de Performance oferece um panorama completo dos tempos de carregamento da sua plataforma &#8211; o ponto de partida ideal para otimizar ainda mais a sua presença digital e melhorar suas conversões.</p>
+<p>Precisa de ajuda para deixar seu WordPress rápido? Comece com uma análise de desempenho e acompanhe as dicas dos nossos especialistas em performance!</p>
+<p>The post <a rel="nofollow" href="https://www.testedeperformance.com/como-deixar-site-wordpress-rapido/">Como deixar seu site em WordPress muito mais rápido</a> appeared first on <a rel="nofollow" href="https://www.testedeperformance.com">Teste de Performance</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.testedeperformance.com/como-deixar-site-wordpress-rapido/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
